@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
   el = document.getElementById('text');
-  el.
+  el.textContent = 'This is really cool!'
 });
