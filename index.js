@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-  el = findElementById('text');
+  el = document.findElementById('text');
 });
